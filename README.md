@@ -78,5 +78,5 @@ Push
 ```
 git push -u origin main
 ```
-4. Finally, go to your account of Git-Hub. Locate on the repository and you should all the changes that have done right now. You will be able to read your file README.md
+4. Finally, go to your account of Git-Hub. Locate on the repository and you should see all the changes that have been done right now. You will be able to read your file README.md
 5. YOU ARE DONE!
